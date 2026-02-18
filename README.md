@@ -22,8 +22,7 @@ Methodological assumptions and limitations are explicitly considered when interp
 ### Tools & Technologies
 - Apache Spark  
 - Cloud IaaS  
-- Python 
-- GitHub Pages
+- Python
 
 ### Output
 - Interactive visualisations
